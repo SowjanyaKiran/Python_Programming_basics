@@ -1,4 +1,4 @@
-# YTHON_PROGRAMMING_BASICS
+# PYTHON_PROGRAMMING_BASICS
 
 This repository includes hands-on practice notebooks covering **Python programming basics** .
 
