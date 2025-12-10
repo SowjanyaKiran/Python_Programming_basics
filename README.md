@@ -1,6 +1,6 @@
-# Python_Libraries_Practice
+# YTHON_PROGRAMMING_BASICS
 
-This repository includes hands-on practice notebooks covering **Python programming basics** and essential **data science libraries** such as NumPy, Pandas, Matplotlib, and Seaborn.
+This repository includes hands-on practice notebooks covering **Python programming basics** .
 
 ## 📘 Notebooks Included
 
