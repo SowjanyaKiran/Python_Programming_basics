@@ -1,10 +1,10 @@
-# Python_Libraries_Practice_Sowjanya
+# Python_Libraries_Practice
 
 This repository includes hands-on practice notebooks covering **Python programming basics** and essential **data science libraries** such as NumPy, Pandas, Matplotlib, and Seaborn.
 
 ## 📘 Notebooks Included
 
-### 1. **PYTHON_PROGRAMMING_BASICS_ASSIGNMENT.ipynb**
+### 1. **PYTHON_PROGRAMMING_BASICS.ipynb**
 A beginner-friendly notebook focusing on:
 - Python syntax and control flow
 - Functions and loops
@@ -12,17 +12,6 @@ A beginner-friendly notebook focusing on:
 - Basic I/O and exception handling
 
 🎯 **Goal**: Build a strong foundation in Python programming concepts essential for data analysis and machine learning.
-
----
-
-### 2. **NUMPY,_PANDAS,_MATPLOTLIB,_AND_SEABORN_ASSIGNMENT.ipynb**
-Covers practical usage of four core libraries:
-- 🔢 **NumPy** – Array creation, slicing, operations
-- 🧮 **Pandas** – DataFrames, Series, data manipulation
-- 📊 **Matplotlib** – Line plots, bar charts, customization
-- 🌈 **Seaborn** – Statistical data visualization, heatmaps, distribution plots
-
-🎯 **Goal**: Apply data manipulation and visualization skills to real-world-like datasets.
 
 ---
 
